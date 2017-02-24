@@ -1,0 +1,21 @@
+{
+  "name": "henry-test",
+  "version": "1.0.0",
+  "description": "henry test for grunt common devDependencies have {matchdep: latest,shelljs: latest, ngmshell: latest,grunt: latest, grunt-contrib-clean: latest, grunt-contrib-concat:latest,  grunt-contrib-copy: latest, grunt-contrib-connect: latest, grunt-contrib-htmlmin: latest, grunt-contrib-cssmin: latest,grunt-contrib-imagemin:latest, grunt-contrib-uglify: latest,   grunt-contrib-watch: latest, grunt-usemin:latest, connect-livereload: latest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Error: no test specified && exit 1"
+  },
+  "author": "henry",
+  "license": "ISC",
+  "keywords": ["grunt"],
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
